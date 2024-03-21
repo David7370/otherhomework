@@ -1,0 +1,67 @@
+.go-back-button {
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px; 
+}
+
+.go-back-button:hover {
+    background-color: #333; 
+}
+
+.black-footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.black-footer .container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.black-footer p {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+
+.orange-footer {
+    background-color: #D5966C;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.orange-footer .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.orange-footer .left-section p {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.orange-footer .middle-section p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.orange-footer .right-section a {
+    color: white;
+    margin-left: 10px;
+}
+
+.right-section {
+    display: flex;
+    align-items: center;
+}
